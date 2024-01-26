@@ -10,13 +10,13 @@ No corpo do arquivo, há testes comentados, para que você teste outras strings 
 // Palavras a serem encontradas
 
 //DICIONÁRIO 1
-// const dicionario = ["as", "no", "zebra", "network", "oi", "fui", "das"];
+const dicionario = ["as", "no", "zebra", "network", "oi", "fui", "das"];
 
 //DICIONÁRIO 2
 // const dicionario = ["nzn", "baixaki", "tecmundo", "megacurioso", "vinte", "anos"];
 
 //DICIONÁRIO 3
-const dicionario = ["mentalidade", "paz", "amor", "familia", "oi", "teste"];
+// const dicionario = ["mentalidade", "paz", "amor", "familia", "oi", "teste"];
 
 ////DICIONÁRIO 4 (este último não encontra resultados na string de valor único)
 // const dicionario = ["Fabiana", "engenheira", "software", "computador", "mouse", "teclado"];
@@ -25,13 +25,13 @@ const dicionario = ["mentalidade", "paz", "amor", "familia", "oi", "teste"];
 // Teste com o valor único
 
 //VALOR 1
-// const valor = "asdfzxascvdfnozebranetworkpoasoidfuizxdfzxascvdcvdcvdasdnznznzasdf";
+const valor = "asdfzxascvdfnozebranetworkpoasoidfuizxdfzxascvdcvdcvdasdnznznzasdf";
 
 //VALOR 2
 // const valor = "zxvnznlkeopbaixakiwrtxtecmundorwsqkpmegacuriosopwrtyivinteqwryopxanos";
 
 //VALOR 3
-const valor = "zxvpazlkeopamorwrtxfamiliarwsqkpmentalidadepwrtywertyoipstestedfgjklx";
+// const valor = "zxvpazlkeopamorwrtxfamiliarwsqkpmentalidadepwrtywertyoipstestedfgjklx";
 
 ////DICIONÁRIO 4 (a string não contem os valores do DICIONÁRIO 4. Teste sem ocorrências.)
 // const valor = "zxvpazlkeopamorwrtxfamiliarwsqkpmentalidadepwrtywertyoipstestedfgjklx";
